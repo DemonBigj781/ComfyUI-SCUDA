@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "server": "192.168.1.10:14833",
+  "lib_path": "/opt/scuda/libscuda_12_0.so",
+  "extra_env": {
+    "CUDA_VISIBLE_DEVICES": "0"
+  }
+}
